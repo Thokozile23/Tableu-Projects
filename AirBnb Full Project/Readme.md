@@ -2,10 +2,10 @@
 
 **Project Overview**
 
-This Tableau project analyzes Airbnb data from the Seattle Open Airbnb dataset for the year 2016, focusing on key metrics related to property pricing, listings, and revenue generation. The dataset, sourced from Washington, USA, provides insights into the Airbnb market in Seattle during this period.
+This Tableau project analyzes Airbnb data from the Seattle Open Airbnb dataset for the year 2016, focusing on key metrics related to property pricing, listings, and revenue generation. The dataset, sourced from Washington, USA, provides insights into the Airbnb market in Seattle during this period.Here is a link to the dataset 
 
 
-![Alt text]()
+![Alt text](https://github.com/Thokozile23/Tableu-Projects/blob/0d41556d2bcd1963900b83bf43f5a738133820d5/AirBnb%20Full%20Project/Airbnb%20image.png)
 
 
 
