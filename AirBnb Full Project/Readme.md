@@ -1,4 +1,4 @@
-##**Airbnb Analysis Project - Seattle 2016**
+**AirBnb Analysis Project - Seattle 2016**
 
 **Project Overview**
 
