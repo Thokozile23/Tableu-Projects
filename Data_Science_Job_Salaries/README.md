@@ -5,7 +5,13 @@ https://public.tableau.com/app/profile/thokozile.munthali/viz/GlobalSalaries/Das
 
 ---
 
-![Alt text]()
+
+
+
+![Alt text](https://github.com/Thokozile23/Tableu-Projects/blob/82fe751fc2a4cb7dbc6a35bc36bb3fb587ceaac1/Data_Science_Job_Salaries/Employment%20analysis.png)
+
+
+
 
 
 ## **📊 Project Overview**
