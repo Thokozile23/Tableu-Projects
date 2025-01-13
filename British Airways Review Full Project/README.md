@@ -1,6 +1,9 @@
 # ✈️ British Airways Review Analysis: A Deep Dive into Passenger Experiences 🌟  
 
-This project explores **British Airways customer reviews** to uncover trends, insights, and patterns in overall ratings. By analyzing feedback across various dimensions, this study provides a comprehensive overview of passenger satisfaction and highlights key areas for improvement.  
+This project explores **British Airways customer reviews** to uncover trends, insights, and patterns in overall ratings. By analyzing feedback across various dimensions, this study provides a comprehensive overview of passenger satisfaction and highlights key areas for improvement. 
+
+![Alt text]()
+
 
 
 ## 📌 **Project Overview**  
