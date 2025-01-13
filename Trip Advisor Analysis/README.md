@@ -1,9 +1,10 @@
 
 # **🏨 Trip Advisor: A Comprehensive Analysis of Hotels in Las Vegas**  
 
-Welcome to the **Trip Advisor** dashboard project! In this analysis, I explored data from 21 hotels in Las Vegas, uncovering key insights into their amenities, user demographics, and overall performance. This interactive Tableau dashboard allows users to view comprehensive details about hotel services, visitor trends, and more.
+Welcome to the **Trip Advisor** dashboard project! In this analysis, I explored data from 21 hotels in Las Vegas, uncovering key insights into their amenities, user demographics, and overall performance. This interactive Tableau dashboard allows users to view comprehensive details about hotel services, visitor trends, and more.You can find the link to the project below; https://public.tableau.com/app/profile/thokozile.munthali/viz/TripadvisorAnalysis_17362029913580/Dashboard1
 
-![Alt text]() 
+
+![Alt text](https://github.com/Thokozile23/Tableu-Projects/blob/bfe10dad239c4c443f0c2d0aaa6fd2c6e8591637/Trip%20Advisor%20Analysis/TripAdvisor%20-pic.png) 
 
 
 
