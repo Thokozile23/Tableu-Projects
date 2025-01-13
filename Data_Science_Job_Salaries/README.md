@@ -5,6 +5,9 @@ https://public.tableau.com/app/profile/thokozile.munthali/viz/GlobalSalaries/Das
 
 ---
 
+![Alt text]()
+
+
 ## **📊 Project Overview**
 
 The **Data Science Job Salaries Analysis** focuses on visualizing salary patterns for data science professionals, helping job seekers, employers, and analysts better understand compensation structures in the industry. The dashboard provides insights into the following:
