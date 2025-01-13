@@ -1,6 +1,6 @@
 # **📺 Netflix Ratings & Content Analysis: A Deep Dive into Movies, TV Shows, and Viewer Preferences 🎬**
 
-Welcome to the **Netflix Ratings & Content Analysis** project, where we explore a treasure trove of Netflix’s TV shows and movies. This interactive Tableau dashboard takes a deep dive into the world of Netflix content, shedding light on key trends such as ratings, duration, genre, and global distribution. It combines data analytics with intuitive visualizations to provide actionable insights for content creators, marketers, and viewers alike.
+Welcome to the **Netflix Ratings & Content Analysis** project, where we explore a treasure trove of Netflix’s TV shows and movies. This interactive Tableau dashboard takes a deep dive into the world of Netflix content, shedding light on key trends such as ratings, duration, genre, and global distribution. It combines data analytics with intuitive visualizations to provide actionable insights for content creators, marketers, and viewers alike.You can find a link to the project below; https://public.tableau.com/app/profile/thokozile.munthali/viz/NetflixAnalysis_17361478746410/Netflix
 
 
 ![Alt text](https://github.com/Thokozile23/Tableu-Projects/blob/298ee74381cf2e7d55c071183bca09160f3de42d/NETFLIX_PROJECT/Netflix.png)
