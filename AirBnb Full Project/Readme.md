@@ -1,6 +1,6 @@
-**AirBnb Analysis Project - Seattle 2016**
+# **🏡 AIRBNB PROJECT ANALYSIS**
 
-**Project Overview**
+📌 **Project Highlights**
 
 This Tableau project analyzes Airbnb data from the Seattle Open Airbnb dataset for the year 2016, focusing on key metrics related to property pricing, listings, and revenue generation. The dataset, sourced from Washington, USA, provides insights into the Airbnb market in Seattle during this period.You can find the project on my Tableu page at https://public.tableau.com/app/profile/thokozile.munthali/viz/AirBnbFullProject_17344003700840/Dashboard1
 
@@ -41,7 +41,7 @@ The primary goals of this analysis were to:
 
 - **Tool Used**: Tableau Desktop for data visualization and analysis.  
 
-## Insights and Results  
+🎯 **Key Insights Uncovered**  
 
 ### **1. Pricing Trends**  
 **Observation:**  
@@ -88,5 +88,12 @@ A yearly breakdown of revenue trends for 2016 reveals higher revenue generation 
 ### Summary:  
 
 The pricing and revenue trends in the Airbnb project reflect both economic principles of supply and demand and the influence of external factors such as location desirability, seasonality, and the characteristics of the local market. By analyzing these insights, hosts can optimize their pricing strategies and identify opportunities to maximize revenue.
+
+📬 Let’s Connect!
+Have feedback or questions? Let’s discuss!
+
+📧 [thokomunthali22@gmail.com]
+💼 [www.linkedin.com/in/thokozile-munthali-3a01362a8]
+
 
 
