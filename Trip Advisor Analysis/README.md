@@ -3,6 +3,9 @@
 
 Welcome to the **Trip Advisor** dashboard project! In this analysis, I explored data from 21 hotels in Las Vegas, uncovering key insights into their amenities, user demographics, and overall performance. This interactive Tableau dashboard allows users to view comprehensive details about hotel services, visitor trends, and more.
 
+![Alt text]() 
+
+
 
 ## **📊 Project Overview**  
 
